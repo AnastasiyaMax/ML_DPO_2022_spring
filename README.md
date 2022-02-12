@@ -6,6 +6,7 @@
 ## Занятия
 
 * [__занятие 1__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week1), 05.02.22 – Основные понятия в машинном обучении
+* [__занятие_2__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week2_linreg), 12.02.22 – Линейная регрессия, метрики качества для задачи регрессии
 
 ## Домашние задания
 
