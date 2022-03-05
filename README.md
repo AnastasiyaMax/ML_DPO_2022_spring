@@ -8,7 +8,7 @@
 * [__занятие 1__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week1), 05.02.22 – Основные понятия в машинном обучении
 * [__занятие 2__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week2_linreg), 12.02.22 – Линейная регрессия, метрики качества для задачи регрессии
 * [__занятие 3__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week3_grad_descent_theory), 19.02.22 – Практика по линейной регресси с прошлого занятия, теория по градиентному спуску
-* [__занятие 4__](), 05.03.22 – Практика по градиентному спуску, теория по линейной классификации
+* [__занятие 4__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week4_grad_descent_practice-lin_class), 05.03.22 – Практика по градиентному спуску, теория по линейной классификации
 
 ## Домашние задания
 
