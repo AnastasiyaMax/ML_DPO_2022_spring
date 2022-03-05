@@ -6,13 +6,16 @@
 ## Занятия
 
 * [__занятие 1__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week1), 05.02.22 – Основные понятия в машинном обучении
-* [__занятие_2__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week2_linreg), 12.02.22 – Линейная регрессия, метрики качества для задачи регрессии
+* [__занятие 2__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week2_linreg), 12.02.22 – Линейная регрессия, метрики качества для задачи регрессии
+* [__занятие 3__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week3_grad_descent_theory), 19.02.22 – Практика по линейной регресси с прошлого занятия, теория по градиентному спуску
+* [__занятие 4__](), 05.03.22 – Практика по градиентному спуску, теория по линейной классификации
 
 ## Домашние задания
 
 Сдавать ДЗ надо на платформе [anytask](http://anytask.org/). Инвайты будут высланы позже.
 
 * [__ДЗ-1__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/hw/hw1_pandas), выдано 05.02.22: Изучение библиотеки Pandas. Дедлайн – 19.02.22.
+* [__ДЗ-2__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/blob/main/hw/hw2_linreg_grad/HW-02.ipynb), выдано 05.03.22: Реализация градиентного спуска. Дедлайн – 19.03.22
  
 ## Формула оценки
 
