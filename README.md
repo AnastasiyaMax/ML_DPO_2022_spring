@@ -10,6 +10,7 @@
 * [__занятие 3__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week3_grad_descent_theory), 19.02.22 – Практика по линейной регресси с прошлого занятия, теория по градиентному спуску
 * [__занятие 4__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week4_grad_descent_practice-lin_class), 05.03.22 – Практика по градиентному спуску, теория по линейной классификации
 * [__занятие 5__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week5_lin-class), 12.03.22 – Методы линейной классификации, практика
+* [__занятие 6__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week6_trees), 19.03.22 – Практика по линейной классификации, лекция по методам нелинейной классификации, в т.ч. деревьям
 
 ## Домашние задания
 
