@@ -18,6 +18,7 @@
 
 * [__ДЗ-1__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/hw/hw1_pandas), выдано 05.02.22: Изучение библиотеки Pandas. Дедлайн – 19.02.22.
 * [__ДЗ-2__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/blob/main/hw/hw2_linreg_grad/HW-02.ipynb), выдано 05.03.22: Реализация градиентного спуска. Дедлайн – 19.03.22
+* [__ДЗ-3__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/hw/hw3_linclass), выдано 26.03.22: Линейная классификация. Дедлайн – 09.04.22
  
 ## Формула оценки
 
