@@ -5,21 +5,21 @@
  
 ## Занятия
 
-* [__занятие 1__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week1), 05.02.22 – Основные понятия в машинном обучении
-* [__занятие 2__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week2_linreg), 12.02.22 – Линейная регрессия, метрики качества для задачи регрессии
-* [__занятие 3__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week3_grad_descent_theory), 19.02.22 – Практика по линейной регресси с прошлого занятия, теория по градиентному спуску
-* [__занятие 4__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week4_grad_descent_practice-lin_class), 05.03.22 – Практика по градиентному спуску, теория по линейной классификации
-* [__занятие 5__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week5_lin-class), 12.03.22 – Методы линейной классификации, практика
-* [__занятие 6__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week6_trees), 19.03.22 – Практика по линейной классификации, лекция по методам нелинейной классификации, в т.ч. деревьям
+* [__занятие 1__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week1) – Основные понятия в машинном обучении
+* [__занятие 2__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week2_linreg) – Линейная регрессия, метрики качества для задачи регрессии
+* [__занятие 3__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week3_grad_descent_theory) – Практика по линейной регресси с прошлого занятия, теория по градиентному спуску
+* [__занятие 4__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week4_grad_descent_practice-lin_class) – Практика по градиентному спуску, теория по линейной классификации
+* [__занятие 5__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week5_lin-class) – Методы линейной классификации, практика
+* [__занятие 6__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/week6_trees) – Практика по линейной классификации, лекция по методам нелинейной классификации, в т.ч. деревьям
 
 ## Домашние задания
 
 Сдавать ДЗ надо на платформе [anytask](http://anytask.org/). Инвайты будут высланы позже.
 
-* [__ДЗ-1__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/hw/hw1_pandas), выдано 05.02.22: Изучение библиотеки Pandas. Дедлайн – 19.02.22.
-* [__ДЗ-2__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/blob/main/hw/hw2_linreg_grad/HW-02.ipynb), выдано 05.03.22: Реализация градиентного спуска. Дедлайн – 19.03.22
-* [__ДЗ-3__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/hw/hw3_linclass), выдано 26.03.22: Линейная классификация. Дедлайн – 09.04.22
-* [__ДЗ-4__](https://docs.google.com/document/d/1XCK7LQaHwV8DA_3hBKc53TEY2xn63L63b-cgGWignYU/edit?usp=sharing), выдано: 02.05.22. Дедлайн – 20.05.22
+* [__ДЗ-1__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/hw/hw1_pandas): Изучение библиотеки Pandas. 
+* [__ДЗ-2__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/blob/main/hw/hw2_linreg_grad/HW-02.ipynb): Реализация градиентного спуска. 
+* [__ДЗ-3__](https://github.com/AnastasiyaMax/ML_DPO_2022_spring/tree/main/hw/hw3_linclass): Линейная классификация. 
+* [__ДЗ-4__](https://docs.google.com/document/d/1XCK7LQaHwV8DA_3hBKc53TEY2xn63L63b-cgGWignYU/edit?usp=sharing)
  
 ## Формула оценки
 
